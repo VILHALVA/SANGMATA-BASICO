@@ -1,5 +1,5 @@
 # SANGMATA BASICO
-🤤ESTE BOT TELEGRAM TEM COMO OBJETIVO FORNECER INFORMAÇÕES SOBRE CONTAS DE USUÁRIOS DO TELEGRAM COM BASE NO ID FORNECIDO PELO USUÁRIO!
+🤤ESTE BOT DO TELEGRAM TEM COMO OBJETIVO FORNECER INFORMAÇÕES SOBRE CONTAS DE USUÁRIOS DO TELEGRAM COM BASE NO ID FORNECIDO PELO USUÁRIO!
 
 <img src="./IMAGENS/FOTO_1.png" align="center" width="400"> <br>
 <img src="./IMAGENS/FOTO_2.png" align="center" width="400"> <br>
@@ -59,6 +59,7 @@ Este bot Telegram tem como objetivo fornecer informações sobre contas de usuá
 * [CURSO SUGERIDO: TELEBOT](https://github.com/VILHALVA/CURSO-DE-TELEBOT)
 * [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 * [CURSO DE SQLITE](https://github.com/VILHALVA/CURSO-DE-SQLITE)
+* [CURSO DE PYTHON COM SQLITE](https://github.com/VILHALVA/CURSO-DE-PYTHON-COM-SQLITE)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
